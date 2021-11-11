@@ -143,8 +143,7 @@
 ## 業務外活動
 
 - 2019/09 [AWS SAA](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) 取得
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e5b909e7-677c-4b76-8b21-6bb2c034a9fd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  - [認定デジタルバッヂ](https://www.credly.com/badges/e5b909e7-677c-4b76-8b21-6bb2c034a9fd/public_url)
 
 ## 意欲・興味
 - サービス・会社をどんどん大きくすることにチャレンジしていきたいです。
