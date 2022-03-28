@@ -26,26 +26,30 @@
 
 ### 言語
 
-- Ruby 4 年
+- Ruby 5 年
 - Go 2 年
 - PHP 3 年
-- MySQL 7 年
-- HTML/CSS 7 年
+- MySQL 8 年
+- HTML/CSS 8 年
 
 ### フレームワーク・その他
 
-- Ruby on Rails 4 年
+- Ruby on Rails 5 年
+- jQuery 8 年
+- React 0.5 年
+- Tailwind CSS 0.5 年
+- bootstrap 4 年
 - CakePHP 3 年
-- Docker 5 年
-- Terraform 3 年
+- Docker 6 年
+- Terraform 4 年
   - AWS の IaC
-- AWS 4 年
-  - EC2/ECS/ELB/Route53 などを利用したサーバーインフラの構築
+- AWS 5 年
+  - EC2/Fargate/ECS/ELB/Route53 などを利用したサーバーインフラの構築
   - S3/CloudFront などを利用したファイルホスティング
   - SQS/SNS などを利用したイベント駆動アーキテクチャの構築
   - Elemental MediaLive/MediaStore/MediaConvert/MediaTailor を利用したライブ動画配信サービスの構築
   - DynamoDB/ElastiCache などの非 RDS を利用したテーブル、データフロー設計
-- Microsoft Excel, VBA / Google SpreadSheet, Google ActionScript 10 年
+- Microsoft Excel, VBA / Google SpreadSheet, Google ActionScript 11 年
   - 趣味や諸々のデータ整理などで利用
 
 ---
